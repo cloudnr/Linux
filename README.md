@@ -3,6 +3,7 @@
 ## Grub Background
 
 ### Tools : Grub-Customizer
+### OS : Ubuntu Gnome 16.04
 
 ### STEP Customizing
 
